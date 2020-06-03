@@ -1,0 +1,23 @@
+body{
+  background-color: azure;
+}
+
+h1{
+  color: darkcyan;
+}
+
+img{
+  max-width:100%;
+   height:auto;
+}
+
+h3{
+  color: #66BFBF;
+}
+hr{
+  background-color:white;
+  border-style:dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%;
+}
